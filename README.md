@@ -1,2 +1,1 @@
-# leetcode
-leetcodeinterview
+# practice 
